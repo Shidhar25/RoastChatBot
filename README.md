@@ -61,7 +61,7 @@ streamlit run UI.py
 3. **Follow the on-screen instructions to provide your details and enjoy being roasted by the AI!**
 
 ## Demo
-Insert a GIF or a video link showing the app in action.
+20250310_183058.mp4
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
