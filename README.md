@@ -12,12 +12,12 @@ A fun, interactive voice-to-voice chatbot that roasts you based on your personal
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/roasting-ai-chatbot.git
+git clone https://github.com/Shidhar25/RoastChatBot.git
 ```
 
 2. **Navigate to the project directory:**
 ```bash
-cd roasting-ai-chatbot
+cd RoastChatBot
 ```
 
 3. **Create a virtual environment and activate it:**
